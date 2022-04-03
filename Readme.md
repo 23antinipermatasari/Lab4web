@@ -45,7 +45,7 @@ Setelah itu kita akan menambahkan Content Artikel seperti dibawah ini:<br>
 Lalu kita tambahkan Cssnya seperti dibawah ini:<br>
 ![Gambar17](Gambar/Gambar17.png)<br>
 Maka kita lihat hasilnya seperti dibawah ini:<br>
-![Gambar18](Gambar18.png)<br>
+![Gambar18](Gambar/Gambar18.png)<br>
 
 ## Pertanyaan dan Tugas
 ![Gambar](Gambar/pertanyaan&tugas.png)<br>
